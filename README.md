@@ -34,5 +34,5 @@ Atualmente estou desenvolvendo o projeto **[TFC - Sistema de Gerenciamento]**, u
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [https://www.linkedin.com/in/seu-usuario-linkedin/](https://www.linkedin.com/in/seu-usuario-linkedin/)
+* **LinkedIn:** [linkedin.com/in/flávio-amorim-chagas-2070301b8/](linkedin.com/in/flávio-amorim-chagas-2070301b8)
 * **Email:** [flavioamorimch@gmail.com](mailto:flavioamorimch@gmail.com)
